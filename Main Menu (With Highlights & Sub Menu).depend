@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665774970 source:e:\web development\professional web development & bi (iti)\october 2022\week 1\lab 4\main menu (with highlights & sub menu)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
